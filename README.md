@@ -1,4 +1,4 @@
-# Lomus Project Shared Platform
+# Lumos Project Shared Platform
 
 This repository is the final assignment of the Mobile Application course.
 
